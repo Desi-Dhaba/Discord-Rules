@@ -1,0 +1,37 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "Server Rules",
+      "message": {
+        "embeds": [
+          {
+            "title": "Server Rules",
+            "description": "**1. Keep inappropriate content out of the channels.**\n> Be polite. Chatting is fine - keep toxicity to a certain level. No excessively outrageous hostile language either. \n> __Result:__ Warn & Mute\n\n**2. Don't be too toxic!** \n> Try not to spam and don't go out of your way to attempt to cause other aggravation. \n> Being unconstrained and wild is fine on occasion, however, if your whole presence online is toxic, at that point it's best you search out to other servers.\n> __Result:__ Warn & Kick\n\n**3. Do not promote your server or DM advertise.**\n> This will not be tolerated and it will lead to an automatic ban. \n> You are only allowed to promote in the <#775561210791723028> channel!\n> __Result:__ Ban\n\n**4. Do not post personal information about other members.**\n> Do not post information or pictures of other people without their permission. \n> This server is supposed to be safe and friendly!\n> __Result:__ Ban\n\n**5. Keep this a drama-free server.**\n> Do whatever it takes not to start or encourage unnecessary drama.\n> Any type of serious harassment (blackmailing, doxxing, hate speech) may lead to a permanent ban.\n> __Result:__ Warn & Ban\n\n**6. Respect the staff team.**\n> We're here to keep the server clean and relaxed; so when we ask you to stop doing something, please do so! If you have any questions or objections, feel free to create a ticket about it, or report inappropriate behavior. Do not ping staff unless there is a matter that needs immediate attention.\n> __Result:__ Warn & Mute\n\n**7. Posting any content related to privacy, cheats, cracks, exploits, or any kind of copyright breaching materials is forbidden. **\n> __Result:__ Warn & Ban\n\n**8. You must be 13 or older to be on this server, if you are underage, you will be removed.**\n> __Result:__ Kick\n\n",
+            "color": 40927,
+            "author": {
+              "name": "Desi Dhaba",
+              "icon_url": "https://cdn.discordapp.com/attachments/776163139674439741/776523095888101476/samosa3.gif"
+            }
+          },
+          {
+            "description": "**9. Your nickname must include your real name and age. You can change your nickname by clicking the server name in the upper left corner, and then clicking 'change nickname'**\n> __Result:__ Warn & Kick\n\n**10. Absolutely no flirting/suggestive language. There are minors on this server. If any evidence is found of flirting between a minor and adult, the adult will very likely be reported to the authorities.**\n> __Result:__ Warn & Ban\n\n",
+            "color": 40927
+          },
+          {
+            "title": "Voice Channel Rules",
+            "description": "\n**1. No NSFW**\n> Any sort of NSFW content is not allowed. This includes but is not limited to: streaming NSFW/18+, Talking about NSFW or Playing NSFW Songs. Breaking any of these is a Direct Ban.\n> __Result:__ Ban\n\n**2. No Ear-Rape**\n> Do not Ear-Rape in Voice Channels. In simple words, it means to Shout inside A Voice Channel. Nothing much to be explained, pretty Self Explanatory.\n> __Result:__ Warn & Access Revoked\n\n**3. Don't use bots everywhere**\n> Do not use music bots everywhere. We have a few specific channels only for music lovers, go there! And also, give people a chance to pick up their song. Everyone has different likes, don't they? ;D\n> __Result:__ Warn & Ban\n\n_Verify by reacting to the green checkmark. These rules and punishment may change and vary through person to person._",
+            "color": 40927,
+            "footer": {
+              "text": "Desi Bhaba",
+              "icon_url": "https://cdn.discordapp.com/attachments/776163139674439741/776518521739804733/a_4513c07f61b023e79cf37800da618c10.gif"
+            },
+            "timestamp": "2020-11-13T18:29:00.000Z"
+          }
+        ],
+        "username": "Desi Dhaba",
+        "avatar_url": "https://cdn.discordapp.com/attachments/776163139674439741/776518521739804733/a_4513c07f61b023e79cf37800da618c10.gif"
+      }
+    }
+  ]
+}
